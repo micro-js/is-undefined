@@ -17,15 +17,16 @@ Check if undefined.
 ```js
 var isUndefined = require('@micro-js/is-undefined')
 
+isUndefined() // => true
 ```
 
 ## API
 
-### isUndefined(arg)
+### isUndefined(value)
 
-- `arg` -
+- `value` - value to check
 
-**Returns:**
+**Returns:** boolean
 
 ## License
 
