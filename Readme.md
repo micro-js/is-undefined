@@ -17,7 +17,7 @@ Check if undefined.
 ```js
 var isUndefined = require('@micro-js/is-undefined')
 
-isUndefined() // => true
+isUndefined(undefined) // => true
 ```
 
 ## API
