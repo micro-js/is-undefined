@@ -2,7 +2,7 @@
   "name": "@micro-js/is-undefined",
   "description": "Check if undefined.",
   "repository": "git://github.com/micro-js/is-undefined.git",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
